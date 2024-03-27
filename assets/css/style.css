@@ -359,7 +359,7 @@ h6 {
   left: 0;
   background-color: #d9edfd;
   overflow: hidden; /* Ensure that the image stays within the hero section */
-  background-image: url("./images/hero1.jpg"); /* Replace with your image path */
+  background-image: url("../images/hero1.jpg"); /* Replace with your image path */
   background-size: auto 100%; /* Initial background size, adjust as needed */
   background-position: right; /* Start position for the animation */
   animation: parallax_bg linear 20s infinite; /* Adjust animation duration as needed */
@@ -513,7 +513,7 @@ section {
 --------------------------------------------------------------*/
 #career-section {
   background: linear-gradient(to right, rgba(3, 113, 146, 0.3), rgb(0, 0, 0)),
-    url("./images/dish.jpeg");
+    url("../images/dish.jpeg");
   background-size: cover;
   background-position: center;
   margin-top: 30px;
