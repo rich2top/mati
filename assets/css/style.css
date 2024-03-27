@@ -1,6 +1,3 @@
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Varela Round", sans-serif;
   font-weight: 400;
@@ -516,7 +513,7 @@ section {
 --------------------------------------------------------------*/
 #career-section {
   background: linear-gradient(to right, rgba(3, 113, 146, 0.3), rgb(0, 0, 0)),
-    url("images/dish.jpeg");
+    url("./images/dish.jpeg");
   background-size: cover;
   background-position: center;
   margin-top: 30px;
